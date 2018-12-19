@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">ProxyServer</string>
+    <string name="app_name">Proxy Server</string>
+    <string name="button_label">Load Page</string>
 </resources>
